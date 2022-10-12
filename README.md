@@ -14,7 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse
-          exercitationem nam eum porro cum commodi illum? Unde sunt rerum
-          voluptas aspernatur distinctio, dolorum molestias provident cumque
-          natus dolore ad, deleniti magnam vero! Ex sed ipsum odit nihil soluta
+Worked as a Web Developer with around 3 years of experience. Extensively worked developing Responsive Web Applications. Experience in developing web page effectively using HTML5, CSS3 and JavaScript in making web pages cross-browser compatible. I enjoy working autonomously and with others. I have a 
+strong work ethic and excellent problem-solving skills.
